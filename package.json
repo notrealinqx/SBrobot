@@ -18,6 +18,7 @@
   "homepage": "https://github.com/line/line-liff-starter#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "window": "^4.2.6"
   }
 }
