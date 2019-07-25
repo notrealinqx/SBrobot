@@ -1,0 +1,23 @@
+{
+  "name": "line-liff-starter",
+  "version": "1.0.0",
+  "description": "This is a small web application that demonstrates the basic functionality of the [LINE Front-end Framework (LIFF)](https://developers.line.me/en/docs/liff/overview/).",
+  "main": "liff-starter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/line/line-liff-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/line/line-liff-starter/issues"
+  },
+  "homepage": "https://github.com/line/line-liff-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
